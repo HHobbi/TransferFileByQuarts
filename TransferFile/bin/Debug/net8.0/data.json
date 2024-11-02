@@ -1,0 +1,27 @@
+{
+    "Directions": [
+        {
+            "src": "C:\\Users\\Hosein\\Desktop\\first",
+            "ext": [ "xlsx", "xls", "docx", "pdf" ],
+            "name":"hosein",
+            "des": "C:\\Users\\Hosein\\Desktop\\Destination"
+        },
+        {
+            "src": "C:\\Users\\Hosein\\Desktop\\first",
+            "ext": [ "xlsx", "xls", "docx", "pdf" ],
+            "name": "ali",
+            "des": "C:\\Users\\Hosein\\Desktop\\Destination"
+        },
+        {
+            "src": "C:\\Users\\Hosein\\Desktop\\first",
+            "ext": [ "xlsx", "xls", "docx", "pdf" ],
+            "name": "reza",
+            "des": "C:\\Users\\Hosein\\Desktop\\Destination"
+        }
+    ] ,
+    "maxCountFile": "2",
+    "time": "19:53"
+
+}
+
+
